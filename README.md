@@ -95,7 +95,7 @@ Me chamo [Pedro Henrique Santos Zuza](https://www.linkedin.com/in/pedrohenriquez
     align="left" 
     alt="GitHub Stats" 
     height="185" 
-    style="padding-right: 10px;" 
+    style="margin-right: 10px; margin-bottom: 10px" 
     src="https://github-readme-stats.vercel.app/api?username=Pedrohenriquezuza&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 <img 
