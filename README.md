@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Pedro Zuza
+# 👨‍💻 Pedro Zuza
 
 **`Desenvolvedor de Software`**
 
@@ -90,17 +90,18 @@ Me chamo [Pedro Henrique Santos Zuza](https://www.linkedin.com/in/pedrohenriquez
 
 ### 📊 Estatísticas
 
-<div style="display: flex; gap: 10px">
+<div style="display: flex;">
 <img 
     align="left" 
     alt="GitHub Stats" 
-    height="185" 
+    style="margin-right: 10px;"
+    height="165" 
     src="https://github-readme-stats.vercel.app/api?username=Pedrohenriquezuza&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="185" 
+      height="165" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohenriquezuza&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
 </div>
