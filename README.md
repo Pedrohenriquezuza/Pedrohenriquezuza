@@ -1,6 +1,6 @@
 # 👨‍💻 Pedro Zuza
 
-**`Desenvolvedor de Software`**
+**`Desenvolvedor Front-End`**
 
 Me chamo [Pedro Henrique Santos Zuza](https://www.linkedin.com/in/pedrohenriquezuza?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app), tenho 17 anos e moro desde que nasci em São Paulo Capital. Atualmente, estou cursando analise e desenvolvimento de sistemas na anhanguera no periodo matutino. Estou em busca e sempre aprendendo para conseguir achar uma primeira oportunidade no mercado de trabalho para conseguir mostrar meu potencial e minhas linhas de código. 
 Sou uma pessoa extrovertida, gosto de criar novas amizades e estou sempre evoluindo, buscando me aprimorar tanto pessoal quanto profissionalmente. Tenho um grande interesse por tecnologia e estou sempre explorando novas formas de aprender e crescer na área.
