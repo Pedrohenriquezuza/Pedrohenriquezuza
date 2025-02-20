@@ -2,8 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo [Pedro Henrique Santos Zuza](https://www.linkedin.com/in/pedrohenriquezuza?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app), tenho 17 anos e moro desde que nasci em São Paulo Capital. Atualmente, estou cursando analise e desenvolvimento de sistemas na anhanguera no periodo matutino. Estou em busca e sempre aprendendo para conseguir achar uma primeira oportunidade no mercado de trabalho para conseguir mostrar meu potencial e minhas linhas de código. 
-Sou uma pessoa extrovertida, gosto de criar novas amizades e estou sempre evoluindo, buscando me aprimorar tanto pessoal quanto profissionalmente. Tenho um grande interesse por tecnologia e estou sempre explorando novas formas de aprender e crescer na área.
+Me chamo [Pedro Henrique Santos Zuza](https://www.linkedin.com/in/pedrohenriquezuza?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app), tenho 17 anos, Estudante de Análise e Desenvolvimento de Sistemas na Anhanguera. Busco minha primeira oportunidade no mercado de trabalho para aplicar meus conhecimentos e demonstrar meu potencial como desenvolvedor. Apaixonado por tecnologia, estou sempre evoluindo e aprimorando minhas habilidades para crescer profissionalmente.
 
 <p align="left">
     <a href="https://github.com/Pedrohenriquezuza?tab=stars">
@@ -91,18 +90,19 @@ Sou uma pessoa extrovertida, gosto de criar novas amizades e estou sempre evolui
 
 ### 📊 Estatísticas
 
-<div style="display: flex;">
+<p">
 <img 
     align="left" 
     alt="GitHub Stats" 
-    style="margin-right: 10px;"
-    height="165" 
+    style="padding-right: 10px;"
+    height="200" 
     src="https://github-readme-stats.vercel.app/api?username=Pedrohenriquezuza&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+    
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="165" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohenriquezuza&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
-</div>
+</p>
